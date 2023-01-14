@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @heypwris !!
-- 👀 I’m interested in ... cooking, programmin, reading, and chatting !!
-- 🌱 I’m currently learning ... web development/full stack, with a focus on Java !!
-- 💞️ I’m looking to collaborate on ... nothing, for now !! 
-- 📫 How to reach me: My Discord is pwris#7376 !!
+- 👀 I’m interested in ... Java programming and web design. I also like to cook!
+- 🌱 I’m currently learning ... Java programming and C++! Using the Oracle Java Tutorials. I've heard they're a bit reference-manual-type, but they seem comprehensive. ( and free! )
+- 💞️ I’m looking to collaborate on ... Nothing, for now! 
+- 📫 How to reach me: Discord is the most direct: heypwris#7376
 
 <!---
 heypwris/heypwris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
